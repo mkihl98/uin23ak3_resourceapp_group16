@@ -12,11 +12,11 @@ Currently, two official plugins are available:
  - Martine Resberg Kihl
  - Philip viet thien nguyen
 
-# Links used 
+## Links used 
 
 https://www.w3schools.com/react/react_router.asp
 
-# Work distributed
+## Work distributed
 
 Martine M, main focus, layout and route
 Martine R, main focus, components and scss
