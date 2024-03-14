@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+:root{
+    --font: "Montserrat", sans-serif;
+    --darkblue: #2A324B;
+    --blue: #58699D;
+    --lightgrey: #E1E5EE;
+    --white: #fff;
+}
+
+h2, h3, h1{
+    color: var(--darkblue)
+}
+
+body{
+    font-family: var(--font);
+    background-color: var(--lightgrey);
+    justify-content: center;
+}
+
+/*Navigasjonsbaren:*/
+nav{
+    margin: 0 auto;
+    max-width: 2000px;
+}
+
+nav a{
+    color: var(--white)
+}
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 0;
+    margin: 3rem 0 0 0;
+}
+
+nav ul li{
+    background-color: var(--darkblue);
+    color: var(--white);
+    padding: 1.3rem 3rem;
+    margin: 0.5rem 0.5rem 0 0.5rem;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+/*Bakgrunnsfarge og skriftfarge for aktivt listepunkt:*/
+.active{
+    background-color: var(--white);
+    color: var(--darkblue);
+}
+
+/*Main-området:*/
+main{
+    display: flex;
+    justify-content: flex-start;
+    justify-self: center;
+    flex-wrap: wrap;
+    max-width: 1500px;
+    background-color: var(--white);
+    height: fit-content;
+    padding: 2rem;
+    margin: 0 auto;
+}
+
+
+
+main h2{
+    width: 100%;
+}
+
+main p{
+    width: 100%;
+}
+
+main ul li{
+    width: 100%;
+    color: var(--b)
+}
+
+// styles.scss
+
+// styles.scss
+
+// styles.scss
+
+.app-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .content-container {
+    width: 100%; // Adjust the width as needed
+    max-width: 2000px; // Adjust the maximum width as needed
+    max-height: 90%;
+    border: 1px solid #ccc; // Add border
+    border-radius: 10px; // Add border radius for rounded corners
+    padding: 20px; // Add padding inside the box
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); // Add box shadow for depth
+    margin: auto; // Center horizontally
+    margin-left: 20%;
+  }
+  
+  
+  
