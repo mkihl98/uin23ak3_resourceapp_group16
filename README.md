@@ -15,6 +15,7 @@ Currently, two official plugins are available:
 ## Links used 
 
 https://www.w3schools.com/react/react_router.asp
+We also used a lot of stuff from class and went back to look at previosu work done. 
 
 ## Work distributed
 
@@ -22,5 +23,5 @@ Martine M, main focus, layout and route
 Martine R, main focus, components and scss
 Philip, main focus, components
 
-We all worked together on everything but mainly did what we had or focus on. 
+We all worked together on everything but mainly did what we had or focus on. We used the scss from the Martines. The main work was done on one computer and then later on compiled together into a repository making the adjustment that were needed. 
 
