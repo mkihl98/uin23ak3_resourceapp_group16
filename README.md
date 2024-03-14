@@ -21,9 +21,9 @@ We also used a lot of stuff from class and went back to look at previosu work do
 
 ## Work distributed
 
-Martine M, main focus, layout and route
-Martine R, main focus, components and scss
-Philip, main focus, components
+#### Martine M, main focus, layout and route
+#### Martine R, main focus, components and scss
+#### Philip, main focus, components
 
-We all worked together on everything but mainly did what we had or focus on. We used the scss from the Martines. The main work was done on one computer and then later on compiled together into a repository making the adjustment that were needed. 
+#### We all worked together on everything but mainly did what we had or focus on. We used the scss from the Martines. The main work was done on one computer and then later on compiled together into a repository making the adjustment that were needed. 
 
