@@ -14,8 +14,8 @@ Currently, two official plugins are available:
 
 ## Links used 
 
-https://www.w3schools.com/react/react_router.asp
-https://lms.webtricks.blog/kurs/uin/react-navigasjon-og-layout
+- https://www.w3schools.com/react/react_router.asp
+- https://lms.webtricks.blog/kurs/uin/react-navigasjon-og-layout
 
 We also used a lot of stuff from class and went back to look at previosu work done. 
 
