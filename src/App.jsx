@@ -3,7 +3,7 @@
 //import { ReactDOM } from 'react-dom/client';
 import { Routes, Route} from 'react-router-dom'
 import Layout from './Components/Layout'
-import Sanity from './Components/Sanity';
+import HeadlessCMS from './Components/HeadlessCMS';
 import NoPage from './Components/NoPage';
 import CSS from './Components/CSS';
 import HTML from './Components/HTML';
@@ -22,7 +22,7 @@ export default function App() {
       <Routes>    
       <Route path="/" element={<Layout />}>
         
-        <Route path="/sanity" element={<Sanity />}/>
+        <Route path="/headlesscms" element={<HeadlessCMS />}/>
         <Route path="/css" element={<CSS />}/>
         <Route path="/react" element={<ReactComponent/>}/>
         <Route path="/html" element={<HTML/>}/>
