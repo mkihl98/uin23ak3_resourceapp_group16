@@ -23,6 +23,7 @@ export default function Layout({children}){
           <Link to="/html">HTML</Link>
         </li>
       </ul>
+      {/*by using link, we route /html and so on to the routes called /html which import info from the different files*/}
     </nav>
     
     <main>
