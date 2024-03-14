@@ -51,7 +51,7 @@ body{
         justify-content: flex-start;
         justify-self: center;
         flex-wrap: wrap;
-        max-width: 1500px;
+        max-width: 1450px;
         background-color: var(--white);
         height: fit-content;
         padding: 2rem;
@@ -62,9 +62,17 @@ body{
         }
 
         ul{
+            list-style-type: disc;
+            color: var(--darkblue);
+
             li{
                 width: 100%;
-                color: var(--b)
+                color: var(--b);
+
+                a{
+                    color: var(--blue);
+                    text-decoration: underline;
+                }  
             }
         }
     }
