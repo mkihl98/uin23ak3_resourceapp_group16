@@ -1,7 +1,3 @@
-/*import { useState } from 'react'
-
-import ResourceList from './ResourceList'*/
-//import Nav from './Nav'
 import {Outlet, Link } from "react-router-dom";
 
 export default function Layout({children}){
