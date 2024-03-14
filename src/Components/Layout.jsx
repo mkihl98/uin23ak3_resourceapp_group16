@@ -21,7 +21,7 @@ export default function Layout({children}){
           <Link to="/react">React</Link>
         </li>
         <li>
-          <Link to="/sanity">Sanity</Link>
+          <Link to="/headlesscms">Headless CMS</Link>
         </li>
         <li>
           <Link to="/html">HTML</Link>
