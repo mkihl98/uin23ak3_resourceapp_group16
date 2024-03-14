@@ -2,14 +2,14 @@
 //import { useState } from 'react';
 //import { ReactDOM } from 'react-dom/client';
 import { Routes, Route} from 'react-router-dom'
-import Layout from './components/Layout'
-import Sanity from './components/Sanity';
-import NoPage from './components/NoPage';
-import CSS from './components/CSS';
-import HTML from './components/HTML';
-import JavaScript from './components/JavaScript';
+import Layout from './Components/Layout'
+import Sanity from './Components/Sanity';
+import NoPage from './Components/NoPage';
+import CSS from './Components/CSS';
+import HTML from './Components/HTML';
+import JavaScript from './Components/JavaScript';
 import './styles/styles.scss'; // Import the main SCSS file
-import ReactComponent from './components/ReactComponent';
+import ReactComponent from './Components/ReactComponent';
 
 
 export default function App() {
