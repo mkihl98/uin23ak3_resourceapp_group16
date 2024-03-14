@@ -8,7 +8,7 @@ import NoPage from './Components/NoPage';
 import CSS from './Components/CSS';
 import HTML from './Components/HTML';
 import JavaScript from './Components/JavaScript';
-import './styles/styles.scss'; // Import the main SCSS file
+//import './styles/styles.scss'; // Import the main SCSS file
 import ReactComponent from './Components/ReactComponent';
 
 
