@@ -15,7 +15,7 @@ export default function App() {
     return (
       
       <Routes>    
-      <Route path="/" element={<Layout />}>
+      <Route path="/javascript" element={<Layout />}>
         
         <Route path="/headlesscms" element={<HeadlessCMS />}/>
         <Route path="/css" element={<CSS />}/>
