@@ -15,12 +15,13 @@ export default function App() {
     return (
       
       <Routes>    
-      <Route path="/javascript" element={<Layout />}>
+      <Route path="/" element={<Layout />}>
         
         <Route path="/headlesscms" element={<HeadlessCMS />}/>
         <Route path="/css" element={<CSS />}/>
         <Route path="/react" element={<ReactComponent/>}/>
         <Route path="/html" element={<HTML/>}/>
+        <Route path="/" element={<JavaScript/>}/> {/*Hjelper koden med å route til javascript når man åpner forsiden */}
         <Route path="/javascript" element={<JavaScript/>}/>
         {/*the path is linked to layout, and the paths gets imported info from their elements*/}
               
