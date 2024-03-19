@@ -20,7 +20,7 @@ export default function App() {
     return (
       
       <Routes>    
-      <Route path="/" element={<Layout />}>
+      <Route path="/javascript" element={<Layout />}>
         
         <Route path="/sanity" element={<Sanity />}/>
         <Route path="/css" element={<CSS />}/>
